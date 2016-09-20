@@ -1,0 +1,77 @@
+body {
+	background-color: #add8e6;
+}
+
+body .button {
+	font-weight: bold;
+	text-align: center;
+	font-size: 30px;
+}
+
+#container {
+
+	margin-top: 30px;
+	margin-left: 50px;
+	margin-right: 50px;
+	
+	padding: 15px 90px 15px 90px;
+	
+	border-radius: 10px;
+	background-color: #ffffff;
+	
+	text-align: left;
+}
+
+#container img {
+	width: 100px;
+	display: block;
+	margin: 10px auto;
+	float: right;
+}
+
+#contact {
+	margin-bottom: 20px;
+  	text-align: center;
+  	font-family: verdana;
+  	padding-bottom:20px;
+  	border-bottom:3px solid gray;
+  	text-shadow: 2px 2px #d3d3d3;
+  	
+}
+
+
+
+#experience {
+  	margin-top: 40px;
+  	font-family: arial;
+}
+
+
+h1 {
+	line-height: 25px;
+	font-size: 25px;
+	padding: 2px;
+	margin: 0px;
+}
+
+h2 {
+  	line-height: 20px;
+  	font-size: 20px;
+  	padding: 2px;
+  	margin: 0px;
+}
+
+h3 {
+  	line-height: 18px;
+  	font-size: 18px;
+  	padding: 2px;
+  	margin: 0px;
+}
+
+h4 {
+	line-height: 15px;
+	font-size: 15px;
+	padding: 4px;
+	margin: 0px;
+}
+
